@@ -1,4 +1,5 @@
 _repo: In-Vain_46454
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Curtin, Jeremiah
@@ -8,9 +9,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/1053
 covers:
 - cover_type: archival
-  image_path: 46454/46454-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46454-h/images/cover.jpg
 creator:
   author:
     agent_name: Sienkiewicz, Henryk
@@ -20,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1052
     wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46454#In-Vain
 gutenberg_issued: '2014-07-30'
 gutenberg_type: Text
 identifiers:
